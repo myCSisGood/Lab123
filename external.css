@@ -1,0 +1,24 @@
+	
+		body{
+			background-color: lightskyblue;
+		}
+		h1{
+			color: pink;
+			maring-left: 40px;
+			font-weight:bold;
+		}
+		.a{
+			font-family:tahoma;
+
+
+		}
+		a:hover{
+			color: red;
+		}
+		#b{
+			color:purple;
+		}
+		span{
+			color:black;
+		}
+
